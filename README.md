@@ -28,5 +28,4 @@
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="CPP" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=adskoe96&style=flat-square)
 ![](https://dcbadge.limes.pink/api/shield/413001095720337409)
