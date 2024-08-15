@@ -1,20 +1,27 @@
+## Welcome!
+
+# Software
+
 <div align="center">
-    <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <!-- Add more badges similarly -->
+    <img src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" alt="Firefox" />
+    <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity" />
+    <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+    <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff" alt="VSCodium" />
 </div>
 
-<!--
-**adskoe96/adskoe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Programming Languages
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+<img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="CPP" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Socials
+
+<div align="center">
+    <a href="https://steamcommunity.com/id/adskdev/">
+        <img src="(https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam" />
+    </a>
+</div>
