@@ -1,7 +1,6 @@
-## Welcome!
+# Welcome!
 
 ### Software
-
 <div align="center">
     <img src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" alt="Firefox" />
     <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity" />
@@ -11,7 +10,7 @@
     <img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff" alt="VSCodium" />
 </div>
 
-# Programming Languages
+### Programming Languages
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
     <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua" />
@@ -19,8 +18,7 @@
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="CPP" />
 </div>
 
-# Socials
-
+### Socials
 <div align="center">
     <a href="https://steamcommunity.com/id/adskdev/">
         <img src="(https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam" />
