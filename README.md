@@ -1,5 +1,11 @@
 <h1 align="center">Welcome to my profile</h1>
 
+<h2 align="center">Community</h2>
+<a href="https://t.me/adsktg", target="_blank">Telegram</a>
+
+<h2 align="center">Active Projects</h2>
+<a href="https://gamejolt.com/games/CPM/868873", target="_blank">Creepy Ponyville: Multiverse</a>
+
 <h2 align="center">Software</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" alt="Firefox" />
