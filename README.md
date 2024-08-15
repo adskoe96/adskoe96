@@ -1,6 +1,6 @@
 ## Welcome!
 
-# Software
+### Software
 
 <div align="center">
     <img src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" alt="Firefox" />
@@ -12,11 +12,12 @@
 </div>
 
 # Programming Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
-<img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="CPP" />
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+    <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua" />
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp" />
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="CPP" />
+</div>
 
 # Socials
 
