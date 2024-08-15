@@ -3,9 +3,6 @@
 <h2 align="center">Community</h2>
 <div align="center">
     <a href="https://t.me/adsktg", target="_blank">Telegram</a>
-    <a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
-        <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-    </a>
 </div>
 
 <h2 align="center">Active Projects</h2>
@@ -32,3 +29,4 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=adskoe96&style=flat-square)
+![](https://dcbadge.limes.pink/api/shield/413001095720337409)
