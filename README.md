@@ -3,6 +3,9 @@
 <h2 align="center">Community</h2>
 <div align="center">
     <a href="https://t.me/adsktg", target="_blank">Telegram</a>
+    <a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+        <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+    </a>
 </div>
 
 <h2 align="center">Active Projects</h2>
@@ -27,3 +30,5 @@
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp" />
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="CPP" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=adskoe96&style=flat-square)
