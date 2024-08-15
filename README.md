@@ -1,10 +1,14 @@
 <h1 align="center">Welcome to my profile</h1>
 
 <h2 align="center">Community</h2>
-<a href="https://t.me/adsktg", target="_blank">Telegram</a>
+<div align="center">
+    <a href="https://t.me/adsktg", target="_blank">Telegram</a>
+</div>
 
 <h2 align="center">Active Projects</h2>
-<a href="https://gamejolt.com/games/CPM/868873", target="_blank">Creepy Ponyville: Multiverse</a>
+<div align="center">
+    <a href="https://gamejolt.com/games/CPM/868873", target="_blank">Creepy Ponyville: Multiverse</a>
+</div>
 
 <h2 align="center">Software</h2>
 <div align="center">
