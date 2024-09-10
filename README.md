@@ -27,5 +27,3 @@
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp" />
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="CPP" />
 </div>
-
-![](https://dcbadge.limes.pink/api/shield/413001095720337409)
