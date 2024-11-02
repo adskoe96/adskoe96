@@ -8,6 +8,7 @@
 <h2 align="center">Active Projects</h2>
 <div align="center">
     <a href="https://gamejolt.com/games/CPM/868873", target="_blank">Creepy Ponyville: Multiverse</a>
+    <a href="https://gamejolt.com/games/catfriends/913309", target="_blank">Cat Friends Continuation</a>
 </div>
 
 <h2 align="center">Software</h2>
