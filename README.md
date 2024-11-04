@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to my profile</h1>
-
 <h2 align="center">Community</h2>
 <div align="center">
     <a href="https://t.me/adsktg", target="_blank">Telegram</a>
