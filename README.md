@@ -3,9 +3,7 @@
 <h2 align="center">Community</h2>
 <div align="center">
     <a href="https://t.me/adsktg", target="_blank">Telegram</a>
-    <p></p>
     <a href="https://www.youtube.com/channel/UCfO7tjjdyEk2V7rDN5Bsj7A", target="_blank">YouTube</a>
-    <p></p>
     <a href="https://gamejolt.com/@adsk-dev", target="_blank">GameJolt</a>
 </div>
 
