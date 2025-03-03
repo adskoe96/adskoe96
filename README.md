@@ -22,6 +22,15 @@
     <a href="https://www.roblox.com/games/8264409061/", target="_blank">BloxHide</a>
 </div>
 
+<h2 align="center">Visitors</h2>
+<div align="center">
+<p>
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@adskoe96.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
+</div>
+
 <h2 align="center">Software</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unity,unreal,blender,rider,vscode,git,mysql"/>
@@ -30,13 +39,4 @@
 <h2 align="center">Programming Languages</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,lua,cs,cpp"/>
-</div>
-
-<h2 align="center">Visitors</h2>
-<div align="center">
-<p>
-  <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@adskoe96.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
-  </a>
-</p>
 </div>
