@@ -38,7 +38,7 @@
 
 <h2 align="center">Software</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,rider,vscode,git,mysql"/>
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ae,rider,vscode,git,mysql"/>
 </div>
 
 <h2 align="center">Programming Languages</h2>
