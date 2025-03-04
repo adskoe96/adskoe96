@@ -16,9 +16,9 @@
 <h2 align="center">Finished Projects</h2>
 <div align="center">
     <a href="https://gamejolt.com/games/STRIMG/692709", target="_blank">Slendytubbies Re-Imagined</a>
-    <p></p>
+    <a> | </a>
     <a href="https://www.roblox.com/games/13731448990/Race-Color-FIXED-BADGE", target="_blank">Race Color</a>
-    <p></p>
+    <a> | </a>
     <a href="https://www.roblox.com/games/8264409061/", target="_blank">BloxHide</a>
 </div>
 
