@@ -43,5 +43,5 @@
 
 <h2 align="center">Programming Languages</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,lua,cs,cpp"/>
+    <img src="https://skillicons.dev/icons?i=py,lua,php,cs,cpp"/>
 </div>
