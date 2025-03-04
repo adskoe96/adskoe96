@@ -31,9 +31,9 @@
 </p>
 </div>
 
-<h2 align="center">Operating systems</h2>
+<h2 align="center">Favorite Environments</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=windows,android,linux"/>
+    <img src="https://skillicons.dev/icons?i=windows,arch"/>
 </div>
 
 <h2 align="center">Software</h2>
