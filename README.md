@@ -31,6 +31,11 @@
 </p>
 </div>
 
+<h2 align="center">Operating systems</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=windows,android,linux"/>
+</div>
+
 <h2 align="center">Software</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unity,unreal,blender,rider,vscode,git,mysql"/>
