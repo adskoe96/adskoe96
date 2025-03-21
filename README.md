@@ -24,6 +24,13 @@
     <a href="https://www.roblox.com/games/8264409061/", target="_blank">BloxHide</a>
 </div>
 
+<h2 align="center">Planned Projects</h2>
+<div align="center">
+    <a>1. Motion Illusion</a>
+    <p></p>
+    <a>2. Project TLL</a>
+</div>
+
 <h2 align="center">Visitors</h2>
 <div align="center">
 <p>
