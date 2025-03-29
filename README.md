@@ -16,6 +16,8 @@
 
 <h2 align="center">Finished Projects</h2>
 <div align="center">
+    <a href="https://gamejolt.com/games/motionillusion/981049", target="_blank">Motion Illusion</a>
+    <a> | </a>
     <a href="https://gamejolt.com/games/STRIMG/692709", target="_blank">Slendytubbies Re-Imagined</a>
     <a> | </a>
     <a href="https://www.roblox.com/games/13731448990/Race-Color-FIXED-BADGE", target="_blank">Race Color</a>
@@ -25,9 +27,7 @@
 
 <h2 align="center">Planned Projects</h2>
 <div align="center">
-    <a>1. Motion Illusion</a>
-    <p></p>
-    <a>2. Project TLL</a>
+    <a>1. Project TLL</a>
 </div>
 
 <h2 align="center">Visitors</h2>
