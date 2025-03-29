@@ -9,6 +9,8 @@
 
 <h2 align="center">Active Projects</h2>
 <div align="center">
+    <a href="https://gamejolt.com/games/motionillusion/981049", target="_blank">Motion Illusion</a>
+    <a> | </a>
     <a href="https://gamejolt.com/games/CPM/868873", target="_blank">Creepy Ponyville: Multiverse</a>
     <a> | </a>
     <a href="https://gamejolt.com/games/catfriends/913309", target="_blank">Cat Friends Continuation</a>
@@ -16,8 +18,6 @@
 
 <h2 align="center">Finished Projects</h2>
 <div align="center">
-    <a href="https://gamejolt.com/games/motionillusion/981049", target="_blank">Motion Illusion</a>
-    <a> | </a>
     <a href="https://gamejolt.com/games/STRIMG/692709", target="_blank">Slendytubbies Re-Imagined</a>
     <a> | </a>
     <a href="https://www.roblox.com/games/13731448990/Race-Color-FIXED-BADGE", target="_blank">Race Color</a>
