@@ -6,8 +6,7 @@
 [<kbd> <br>**GameJolt**<br> </kbd>](https://gamejolt.com/@adsk-dev)
 
 </div>
-
-<br><br>
+<br>
 
 <h2 align="center">Projects</h2>
 <div align="center">
@@ -22,7 +21,7 @@
 | [**BloxHide**](https://www.roblox.com/games/8264409061/)<br>`Casual` `Multiplayer` | `Roblox` | 2021-12-16 | 🟢 Stable |
 
 </div>
-<br><br>
+<br>
 
 <h2 align="center">Experience</h2>
 <div align="center">
@@ -30,8 +29,7 @@
     <br><br>
     <img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=adskoe96&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&hide_border=true"/>
 </div>
-
-<br><br>
+<br>
 
 <h2 align="center">Visitors</h2>
 <div align="center">
@@ -41,22 +39,19 @@
   </a>
 </p>
 </div>
-
-<br><br>
+<br>
 
 <h2 align="center">Favorite Environments</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=windows,arch"/>
 </div>
-
-<br><br>
+<br>
 
 <h2 align="center">Software</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ae,rider,vscode,git,mysql"/>
 </div>
-
-<br><br>
+<br>
 
 <h2 align="center">Programming Languages</h2>
 <div align="center">
