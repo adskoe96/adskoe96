@@ -1,9 +1,9 @@
 <h2 align="center">Community</h2>
 <div align="center">
 
-[<kbd> <br>Telegram<br> </kbd>](https://t.me/adsktg)
-[<kbd> <br>YouTube<br> </kbd>](https://www.youtube.com/channel/UCfO7tjjdyEk2V7rDN5Bsj7A)
-[<kbd> <br>GameJolt<br> </kbd>](https://gamejolt.com/@adsk-dev)
+[<kbd> <br>**Telegram**<br> </kbd>](https://t.me/adsktg)
+[<kbd> <br>**YouTube**<br> </kbd>](https://www.youtube.com/channel/UCfO7tjjdyEk2V7rDN5Bsj7A)
+[<kbd> <br>**GameJolt**<br> </kbd>](https://gamejolt.com/@adsk-dev)
 
 </div>
 
