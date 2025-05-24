@@ -1,10 +1,10 @@
 <h2 align="center">Community</h2>
 <div align="center">
-    <a href="https://t.me/adsktg", target="_blank">Telegram</a>
-    <a> | </a>
-    <a href="https://www.youtube.com/channel/UCfO7tjjdyEk2V7rDN5Bsj7A", target="_blank">YouTube</a>
-    <a> | </a>
-    <a href="https://gamejolt.com/@adsk-dev", target="_blank">GameJolt</a>
+
+[<kbd> <br>Telegram<br> </kbd>][https://t.me/adsktg]
+[<kbd> <br>YouTube<br> </kbd>][https://www.youtube.com/channel/UCfO7tjjdyEk2V7rDN5Bsj7A]
+[<kbd> <br>GameJolt<br> </kbd>][https://gamejolt.com/@adsk-dev]
+
 </div>
 
 <br><br>
