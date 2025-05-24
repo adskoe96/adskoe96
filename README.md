@@ -10,6 +10,7 @@
 <br><br>
 
 <h2 align="center">Projects</h2>
+<div align="center">
 
 | Project | Engine | Start Date | Status |
 | :--------- | :-------: | :----------: | :-------: |
@@ -20,6 +21,7 @@
 | [**Race Color**](https://www.roblox.com/games/13731448990/Race-Color-FIXED-BADGE)<br>`Arcade` `Multiplayer` | `Roblox` | 2023-12-06 | 🟢 Stable |
 | [**BloxHide**](https://www.roblox.com/games/8264409061/)<br>`Casual` `Multiplayer` | `Roblox` | 2021-12-16 | 🟢 Stable |
 
+</div>
 <br><br>
 
 <h2 align="center">Experience</h2>
