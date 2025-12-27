@@ -49,7 +49,7 @@
 
 <h2 align="center">Software</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ae,rider,vscode,git,mysql"/>
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,ae,rider,vscode,git,mysql"/>
 </div>
 <br>
 
