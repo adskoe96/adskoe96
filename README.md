@@ -26,8 +26,6 @@
 <h2 align="center">Experience</h2>
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=adskoe96&theme=github-dark&hide_border=true&mode=weekly&hide_longest_streak=true" alt="GitHub Streak"/>
-    <br><br>
-    <img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=adskoe96&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&hide_border=true"/>
 </div>
 <br>
 
