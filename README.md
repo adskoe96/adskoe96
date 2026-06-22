@@ -67,5 +67,5 @@
 <h2 align="center">Programming Languages</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,lua,php,cs,cpp" alt="Programming Languages">
+    <img src="https://skillicons.dev/icons?i=py,lua,cs,cpp" alt="Programming Languages">
 </div>
