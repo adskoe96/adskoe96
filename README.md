@@ -19,7 +19,7 @@
 | Project | Engine / Render | Start Date | Status |
 |:--------|:----------------|:-----------|:-----------|
 | [**Random Asylum**](https://steamcommunity.com/sharedfiles/filedetails/?id=3590237349)<br>`Lua` • `Multiplayer` | Garry's Mod | 2025-10-20 | **Stable** |
-| **AdskEngine**<br>`C++` | OpenGL 3.3 | 2025-06-14 | **In Development** |
+| **AdskEngine**<br>`C++` | OpenGL 2.1 | 2025-06-14 | **In Development** |
 | [**Creepy Ponyville**](https://gamejolt.com/games/CPM/868873)<br>`C++` • `Multiplayer` | Unreal 4.27.2 | 2024-01-12 | **Stable** |
 | [**Cat Friends**](https://gamejolt.com/games/catfriends/913309)<br>`C#` • `Multiplayer` | Unity 2021 | 2024-07-23 | **Stable** |
 | [**Slendytubbies Re-Imagined**](https://gamejolt.com/games/STRIMG/692709)<br>`C#` • `Multiplayer` | Unity 2020 | 2022-12-08 | **Discontinued** |
